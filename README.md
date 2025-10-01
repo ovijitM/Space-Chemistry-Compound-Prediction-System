@@ -1,6 +1,8 @@
 NASA Rover Chemistry Prediction System
 =====================================
 
+## This is the initial branch of our project (The old setup) -- ITS BEEN MODIFIED TO NEWER ONES
+
 Overview
 - Goal: Generate realistic, validated training data to predict which compounds can form from detected elements under given environmental conditions. The system is planet‑agnostic and focuses on physically plausible chemistry with traceable provenance.
 - Outputs: Validated compound suggestions, formation probabilities, limiting factors, and provenance metadata suitable for ML training.
