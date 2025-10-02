@@ -1,0 +1,38 @@
+{
+  "earth_similarity": {
+    "predicted_value": 88.89166666666662,
+    "confidence": 88.89166666666662,
+    "top_factors": {
+      "element_diversity": 0.13155565554228105,
+      "unknown_element_count": 0.1116985309922201,
+      "pH": 0.09037485020579293
+    }
+  },
+  "discovery_potential": {
+    "predicted_value": 10.57884615384616,
+    "confidence": 10.57884615384616,
+    "top_factors": {
+      "pressure": 0.13233706212459898,
+      "pH": 0.1169992692301302,
+      "element_diversity": 0.08139970267728362
+    }
+  },
+  "compound_formation": {
+    "predicted_value": 100.0,
+    "confidence": 100.0,
+    "top_factors": {
+      "temperature": 0.0,
+      "pressure": 0.0,
+      "pH": 0.0
+    }
+  },
+  "element_abundance": {
+    "predicted_value": 13.81,
+    "confidence": 13.81,
+    "top_factors": {
+      "total_elements": 0.15366430260047279,
+      "longitude": 0.1024428684003152,
+      "latitude": 0.09535066981875491
+    }
+  }
+}

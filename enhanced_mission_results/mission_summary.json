@@ -1,0 +1,83 @@
+{
+  "mission_metadata": {
+    "environment": "Unknown Environment",
+    "total_locations": 5,
+    "mission_timestamp": "2025-10-02T23:50:59.311891",
+    "random_seed": 42
+  },
+  "discovery_statistics": {
+    "total_unique_elements": 51,
+    "unknown_elements": [
+      "Ra",
+      "Ac",
+      "Ir",
+      "Rh",
+      "La",
+      "Os",
+      "Pa",
+      "Pt",
+      "Tc",
+      "Po",
+      "Pu",
+      "Pm"
+    ],
+    "unknown_element_count": 12,
+    "total_compounds_tested": 10,
+    "known_compounds_found": 10,
+    "unknown_compounds_found": 0,
+    "compound_success_rate": 100.0
+  },
+  "analysis_scores": {
+    "average_earth_similarity": 90.17307692307692,
+    "average_discovery_potential": 10.246153846153847,
+    "average_scientific_value": 10.036538461538463
+  },
+  "notable_locations": {
+    "highest_scientific_value": {
+      "site_id": "DRILL_05_cb9a50",
+      "score": 13.333333333333336,
+      "coordinates": [
+        -3.095900856381223,
+        -4.0306918577117665
+      ]
+    },
+    "most_earth_like": {
+      "site_id": "DRILL_01_785f65",
+      "score": 95.83333333333333,
+      "coordinates": [
+        -4.290069139909675,
+        1.3110295727009893
+      ]
+    },
+    "highest_discovery_potential": {
+      "site_id": "DRILL_01_785f65",
+      "score": 12.5,
+      "coordinates": [
+        -4.290069139909675,
+        1.3110295727009893
+      ]
+    }
+  },
+  "ml_model_performance": {
+    "earth_similarity_mse": 1.0770714168310993,
+    "earth_similarity_r2": NaN,
+    "discovery_potential_mse": 16.5210982248521,
+    "discovery_potential_r2": NaN,
+    "compound_formation_accuracy": 1.0,
+    "element_abundance_mse": 32.376099999999994,
+    "element_abundance_r2": NaN
+  },
+  "top_elements_discovered": [
+    "Ni",
+    "Fe",
+    "Se",
+    "Ta",
+    "Kr",
+    "Pt",
+    "Pb",
+    "W",
+    "As",
+    "N"
+  ],
+  "mission_recommendations": []
+}
