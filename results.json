@@ -1,0 +1,23 @@
+[
+  {
+    "formula": "H2O",
+    "feasible": true,
+    "formation_probability": 0.6301467123395342,
+    "limiting_factors": [],
+    "confidence": 0.7301467123395342
+  },
+  {
+    "formula": "NaCl",
+    "feasible": true,
+    "formation_probability": 0.827641958182609,
+    "limiting_factors": [],
+    "confidence": 0.927641958182609
+  },
+  {
+    "formula": "CO2",
+    "feasible": true,
+    "formation_probability": 0.6301467123395342,
+    "limiting_factors": [],
+    "confidence": 0.7301467123395342
+  }
+]
