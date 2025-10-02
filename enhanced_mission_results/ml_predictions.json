@@ -1,20 +1,20 @@
 {
   "earth_similarity": {
-    "predicted_value": 88.89166666666662,
-    "confidence": 88.89166666666662,
+    "predicted_value": 87.62878787878786,
+    "confidence": 87.62878787878786,
     "top_factors": {
-      "element_diversity": 0.13155565554228105,
-      "unknown_element_count": 0.1116985309922201,
-      "pH": 0.09037485020579293
+      "latitude": 0.13409493428132277,
+      "temperature": 0.11157488777243472,
+      "humidity": 0.10630500978539223
     }
   },
   "discovery_potential": {
-    "predicted_value": 10.57884615384616,
-    "confidence": 10.57884615384616,
+    "predicted_value": 11.684090909090905,
+    "confidence": 11.684090909090905,
     "top_factors": {
-      "pressure": 0.13233706212459898,
-      "pH": 0.1169992692301302,
-      "element_diversity": 0.08139970267728362
+      "temperature": 0.17463477731955537,
+      "radiation_level": 0.10645577932845988,
+      "rare_element_count": 0.07994863910719213
     }
   },
   "compound_formation": {
@@ -27,12 +27,12 @@
     }
   },
   "element_abundance": {
-    "predicted_value": 13.81,
-    "confidence": 13.81,
+    "predicted_value": 9.89,
+    "confidence": 9.89,
     "top_factors": {
-      "total_elements": 0.15366430260047279,
-      "longitude": 0.1024428684003152,
-      "latitude": 0.09535066981875491
+      "total_elements": 0.11280149486695273,
+      "pressure": 0.1001415036298757,
+      "element_diversity": 0.08493428106996899
     }
   }
 }
