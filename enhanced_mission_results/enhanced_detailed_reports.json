@@ -1,0 +1,637 @@
+[
+  {
+    "site_id": "DRILL_01_b2f857",
+    "coordinates": [
+      -4.290069139909675,
+      1.3110295727009893
+    ],
+    "depth": 2.3665236597304284,
+    "site_type": "surface",
+    "drilling_timestamp": "2025-10-03T00:14:34.053725",
+    "environmental_data": {
+      "temperature": -101.7921845359026,
+      "pressure": 2.828077386116158,
+      "pH": 8.401777532585097,
+      "humidity": 10.9269032244804,
+      "radiation_level": 1.996741714202375
+    },
+    "element_analysis": [
+      {
+        "symbol": "Al",
+        "percentage": 19.092580073692776,
+        "earth_exists": true,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "Sm",
+        "percentage": 17.26665382210426,
+        "earth_exists": true,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "Yb",
+        "percentage": 16.334372340506693,
+        "earth_exists": true,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "Ti",
+        "percentage": 14.581365780198949,
+        "earth_exists": true,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "Po",
+        "percentage": 10.814074739514957,
+        "earth_exists": false,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "I",
+        "percentage": 10.582451067288417,
+        "earth_exists": true,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "He",
+        "percentage": 5.346626890625859,
+        "earth_exists": true,
+        "rarity_classification": "common"
+      },
+      {
+        "symbol": "Ga",
+        "percentage": 2.8983154754858043,
+        "earth_exists": true,
+        "rarity_classification": "uncommon"
+      },
+      {
+        "symbol": "Eu",
+        "percentage": 1.5323137753990326,
+        "earth_exists": true,
+        "rarity_classification": "uncommon"
+      },
+      {
+        "symbol": "Mg",
+        "percentage": 1.1129443341723988,
+        "earth_exists": true,
+        "rarity_classification": "uncommon"
+      },
+      {
+        "symbol": "Ni",
+        "percentage": 0.4028233938625385,
+        "earth_exists": true,
+        "rarity_classification": "rare"
+      },
+      {
+        "symbol": "N",
+        "percentage": 0.035478307148301934,
+        "earth_exists": true,
+        "rarity_classification": "ultra_rare"
+      }
+    ],
+    "compound_analysis": [
+      {
+        "formula": "Ni4",
+        "formation_probability": 0.5821538778634636,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      },
+      {
+        "formula": "NiN4Po3",
+        "formation_probability": 0.6863236860221594,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "stable"
+      },
+      {
+        "formula": "SmYb2Ga",
+        "formation_probability": 0.5324888778634638,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      },
+      {
+        "formula": "Mg4AlNTi",
+        "formation_probability": 0.5442038778634636,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      },
+      {
+        "formula": "I3Eu2",
+        "formation_probability": 0.5398538778634637,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      }
+    ],
+    "summary_scores": {
+      "earth_similarity_score": 95.83333333333333,
+      "discovery_potential": 12.5,
+      "scientific_value": 8.333333333333336
+    }
+  },
+  {
+    "site_id": "DRILL_02_d7c653",
+    "coordinates": [
+      3.596354002537465,
+      -4.291426501113466
+    ],
+    "depth": 2.4562458802530527,
+    "site_type": "elevation",
+    "drilling_timestamp": "2025-10-03T02:14:34.053725",
+    "environmental_data": {
+      "temperature": -216.18458684471636,
+      "pressure": 2.6177060653964626,
+      "pH": 8.69694446622777,
+      "humidity": 79.61223048880417,
+      "radiation_level": 8.620955561808938
+    },
+    "element_analysis": [
+      {
+        "symbol": "V",
+        "percentage": 15.483492308121322,
+        "earth_exists": true,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "Si",
+        "percentage": 12.818956335566428,
+        "earth_exists": true,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "In",
+        "percentage": 10.795454073935948,
+        "earth_exists": true,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "Tc",
+        "percentage": 9.191143257921249,
+        "earth_exists": false,
+        "rarity_classification": "common"
+      },
+      {
+        "symbol": "Be",
+        "percentage": 9.101522773572277,
+        "earth_exists": false,
+        "rarity_classification": "common"
+      },
+      {
+        "symbol": "I",
+        "percentage": 8.08311716698843,
+        "earth_exists": true,
+        "rarity_classification": "common"
+      },
+      {
+        "symbol": "Ge",
+        "percentage": 7.734659678665872,
+        "earth_exists": true,
+        "rarity_classification": "common"
+      },
+      {
+        "symbol": "Br",
+        "percentage": 5.872600590606557,
+        "earth_exists": true,
+        "rarity_classification": "common"
+      },
+      {
+        "symbol": "Pm",
+        "percentage": 5.64426751966685,
+        "earth_exists": false,
+        "rarity_classification": "common"
+      },
+      {
+        "symbol": "Ga",
+        "percentage": 4.775820668184345,
+        "earth_exists": true,
+        "rarity_classification": "uncommon"
+      },
+      {
+        "symbol": "Ca",
+        "percentage": 3.712097845158447,
+        "earth_exists": true,
+        "rarity_classification": "uncommon"
+      },
+      {
+        "symbol": "Th",
+        "percentage": 3.541998535038588,
+        "earth_exists": true,
+        "rarity_classification": "uncommon"
+      },
+      {
+        "symbol": "Rn",
+        "percentage": 2.0365922814837236,
+        "earth_exists": true,
+        "rarity_classification": "uncommon"
+      },
+      {
+        "symbol": "B",
+        "percentage": 1.0057464319696545,
+        "earth_exists": true,
+        "rarity_classification": "uncommon"
+      },
+      {
+        "symbol": "Sc",
+        "percentage": 0.20253053312031508,
+        "earth_exists": true,
+        "rarity_classification": "rare"
+      }
+    ],
+    "compound_analysis": [
+      {
+        "formula": "Ga3BV",
+        "formation_probability": 0.5101429688077028,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      },
+      {
+        "formula": "Ca",
+        "formation_probability": 0.5552839540622,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      },
+      {
+        "formula": "Th2B2GaGe3",
+        "formation_probability": 0.45574895406220006,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      },
+      {
+        "formula": "Tc3V4Sc4Si4",
+        "formation_probability": 0.48113508436483354,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      },
+      {
+        "formula": "V2Sc2In5Br",
+        "formation_probability": 0.6283860114726193,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "stable"
+      }
+    ],
+    "summary_scores": {
+      "earth_similarity_score": 90.0,
+      "discovery_potential": 12.0,
+      "scientific_value": 11.0
+    }
+  },
+  {
+    "site_id": "DRILL_03_d7594c",
+    "coordinates": [
+      -0.1458550084950927,
+      0.39233931394754595
+    ],
+    "depth": 7.261190402221612,
+    "site_type": "subsurface",
+    "drilling_timestamp": "2025-10-03T04:14:34.053725",
+    "environmental_data": {
+      "temperature": -81.17789566792487,
+      "pressure": 1.5615722047731537,
+      "pH": 8.255330359501535,
+      "humidity": 83.98628878419207,
+      "radiation_level": 2.8453823959943314
+    },
+    "element_analysis": [
+      {
+        "symbol": "Ac",
+        "percentage": 19.82631030864282,
+        "earth_exists": false,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "Sn",
+        "percentage": 16.488590455880722,
+        "earth_exists": true,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "Ca",
+        "percentage": 15.460594310309709,
+        "earth_exists": true,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "Zn",
+        "percentage": 13.558040094274482,
+        "earth_exists": true,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "Na",
+        "percentage": 12.610263198550678,
+        "earth_exists": true,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "Pa",
+        "percentage": 10.446379783106542,
+        "earth_exists": false,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "Yb",
+        "percentage": 6.54096927020987,
+        "earth_exists": true,
+        "rarity_classification": "common"
+      },
+      {
+        "symbol": "Nb",
+        "percentage": 4.427384818901422,
+        "earth_exists": true,
+        "rarity_classification": "uncommon"
+      },
+      {
+        "symbol": "Ar",
+        "percentage": 0.6414677601237576,
+        "earth_exists": true,
+        "rarity_classification": "rare"
+      }
+    ],
+    "compound_analysis": [
+      {
+        "formula": "Ca3Sn3Nb3",
+        "formation_probability": 0.5359766891539468,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      },
+      {
+        "formula": "CaAc",
+        "formation_probability": 0.5985372910901522,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      },
+      {
+        "formula": "PaSn5",
+        "formation_probability": 0.5285872910901522,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      },
+      {
+        "formula": "Zn2Ac6Na3Yb3",
+        "formation_probability": 0.4883659723622639,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      },
+      {
+        "formula": "Zn2Nb5",
+        "formation_probability": 0.547912888457947,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      }
+    ],
+    "summary_scores": {
+      "earth_similarity_score": 88.88888888888889,
+      "discovery_potential": 6.666666666666666,
+      "scientific_value": 8.88888888888889
+    }
+  },
+  {
+    "site_id": "DRILL_04_10925f",
+    "coordinates": [
+      0.7621164972089991,
+      -2.570027576042755
+    ],
+    "depth": 4.782432135151478,
+    "site_type": "slope",
+    "drilling_timestamp": "2025-10-03T06:14:34.053725",
+    "environmental_data": {
+      "temperature": -44.426814920033216,
+      "pressure": 2.5575868808845206,
+      "pH": 7.285134039704234,
+      "humidity": 37.05708762180562,
+      "radiation_level": 5.109011817803071
+    },
+    "element_analysis": [
+      {
+        "symbol": "Po",
+        "percentage": 17.94202606895741,
+        "earth_exists": false,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "V",
+        "percentage": 13.886924795780352,
+        "earth_exists": true,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "Pa",
+        "percentage": 13.53738955733739,
+        "earth_exists": false,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "Tm",
+        "percentage": 12.31393999671587,
+        "earth_exists": true,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "Pu",
+        "percentage": 8.77320534350982,
+        "earth_exists": false,
+        "rarity_classification": "common"
+      },
+      {
+        "symbol": "Au",
+        "percentage": 8.768672938895008,
+        "earth_exists": false,
+        "rarity_classification": "common"
+      },
+      {
+        "symbol": "Br",
+        "percentage": 7.3013965540297,
+        "earth_exists": true,
+        "rarity_classification": "common"
+      },
+      {
+        "symbol": "Ba",
+        "percentage": 6.006315801927665,
+        "earth_exists": true,
+        "rarity_classification": "common"
+      },
+      {
+        "symbol": "Ca",
+        "percentage": 5.632527633538704,
+        "earth_exists": true,
+        "rarity_classification": "common"
+      },
+      {
+        "symbol": "Ho",
+        "percentage": 5.5475640030840285,
+        "earth_exists": true,
+        "rarity_classification": "common"
+      },
+      {
+        "symbol": "Sm",
+        "percentage": 0.29003730622405643,
+        "earth_exists": true,
+        "rarity_classification": "rare"
+      }
+    ],
+    "compound_analysis": [
+      {
+        "formula": "Pu6Pa2",
+        "formation_probability": 0.5557174548051864,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      },
+      {
+        "formula": "SmBr",
+        "formation_probability": 0.5716674548051863,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      },
+      {
+        "formula": "BrSm6Tm",
+        "formation_probability": 0.5195674548051865,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      },
+      {
+        "formula": "CaSm2PoBr",
+        "formation_probability": 0.5195674548051865,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      },
+      {
+        "formula": "Ca2V2Sm2",
+        "formation_probability": 0.532961848585501,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      }
+    ],
+    "summary_scores": {
+      "earth_similarity_score": 81.81818181818181,
+      "discovery_potential": 8.181818181818182,
+      "scientific_value": 13.181818181818183
+    }
+  },
+  {
+    "site_id": "DRILL_05_cf2491",
+    "coordinates": [
+      -3.095900856381223,
+      -4.0306918577117665
+    ],
+    "depth": 4.367406705823138,
+    "site_type": "slope",
+    "drilling_timestamp": "2025-10-03T08:14:34.053725",
+    "environmental_data": {
+      "temperature": -26.31350028764106,
+      "pressure": 2.476412302621471,
+      "pH": 6.471171280142632,
+      "humidity": 17.381354832643446,
+      "radiation_level": 0.8431422021215624
+    },
+    "element_analysis": [
+      {
+        "symbol": "Se",
+        "percentage": 23.842355634672757,
+        "earth_exists": true,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "Th",
+        "percentage": 22.050890662927042,
+        "earth_exists": true,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "Pr",
+        "percentage": 15.964710979361277,
+        "earth_exists": true,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "Ne",
+        "percentage": 10.409541776687787,
+        "earth_exists": true,
+        "rarity_classification": "abundant"
+      },
+      {
+        "symbol": "Ra",
+        "percentage": 9.19905224019021,
+        "earth_exists": false,
+        "rarity_classification": "common"
+      },
+      {
+        "symbol": "Os",
+        "percentage": 7.971236136927892,
+        "earth_exists": false,
+        "rarity_classification": "common"
+      },
+      {
+        "symbol": "Tl",
+        "percentage": 6.145960970810612,
+        "earth_exists": true,
+        "rarity_classification": "common"
+      },
+      {
+        "symbol": "Zn",
+        "percentage": 4.416251598422426,
+        "earth_exists": true,
+        "rarity_classification": "uncommon"
+      }
+    ],
+    "compound_analysis": [
+      {
+        "formula": "Ra2TlZnTh6",
+        "formation_probability": 0.5086324548051864,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      },
+      {
+        "formula": "Os2SeThZn3",
+        "formation_probability": 0.5184739548051864,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      },
+      {
+        "formula": "Pr",
+        "formation_probability": 0.5891674548051864,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      },
+      {
+        "formula": "Ra4Zn2",
+        "formation_probability": 0.5597174548051863,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      },
+      {
+        "formula": "Tl2",
+        "formation_probability": 0.5891674548051864,
+        "earth_exists": true,
+        "classification": "known",
+        "stability_rating": "moderately_stable"
+      }
+    ],
+    "summary_scores": {
+      "earth_similarity_score": 87.5,
+      "discovery_potential": 18.75,
+      "scientific_value": 15.625
+    }
+  }
+]
