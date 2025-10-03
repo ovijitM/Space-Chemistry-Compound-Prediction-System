@@ -1,4 +1,4 @@
-NASA Rover Chemistry Prediction System
+Space Chemistry: Compound Prediction System
 =====================================
 
 Overview
